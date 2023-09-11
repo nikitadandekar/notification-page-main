@@ -79,3 +79,6 @@ p {
 base {
   color: blue;
 }
+.time {
+  padding-left: 50px;
+}
